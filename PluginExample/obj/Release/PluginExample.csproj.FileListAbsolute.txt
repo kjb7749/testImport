@@ -1,0 +1,7 @@
+C:\Development\OpenDental\PluginExample\obj\Release\PluginExample.csprojResolveAssemblyReference.cache
+C:\Development\OpenDental\PluginExample\obj\Release\PluginExample.ContrAccountP.resources
+C:\Development\OpenDental\PluginExample\obj\Release\PluginExample.ContrChartP.resources
+C:\Development\OpenDental\PluginExample\obj\Release\PluginExample.FormFromToolbar.resources
+C:\Development\OpenDental\PluginExample\obj\Release\PluginExample.FormPatientEditP.resources
+C:\Development\OpenDental\PluginExample\obj\Release\PluginExample.csproj.GenerateResource.Cache
+C:\Development\OpenDental\PluginExample\obj\Release\PluginExample.csproj.CoreCompileInputs.cache

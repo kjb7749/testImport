@@ -1,0 +1,13 @@
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\OpenDentalCloud.dll
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\OpenDentalCloud.pdb
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\CodeBase.dll
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\Dropbox.Api.dll
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\Renci.SshNet.dll
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\Tao.Platform.Windows.dll
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\Windows.winmd
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\Tao.OpenGl.dll
+C:\Development\OpenDental\head\OpenDentalCloud\bin\Debug\CodeBase.pdb
+C:\Development\OpenDental\head\OpenDentalCloud\obj\Debug\OpenDentalCloud.csprojResolveAssemblyReference.cache
+C:\Development\OpenDental\head\OpenDentalCloud\obj\Debug\OpenDentalCloud.csproj.CoreCompileInputs.cache
+C:\Development\OpenDental\head\OpenDentalCloud\obj\Debug\OpenDentalCloud.dll
+C:\Development\OpenDental\head\OpenDentalCloud\obj\Debug\OpenDentalCloud.pdb

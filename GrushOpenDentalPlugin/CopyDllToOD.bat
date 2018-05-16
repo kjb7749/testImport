@@ -1,0 +1,1 @@
+xcopy "C:\development\OpenDental\GrushOpenDentalPlugin\bin\Debug\GrushOpenDentalPlugin.dll" "C:\development\OpenDental\head\OpenDental\bin\Debug" /Y

@@ -1,0 +1,12 @@
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\bin\Release\DatabaseIntegrityCheck.exe.config
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\bin\Release\DatabaseIntegrityCheck.exe
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\bin\Release\DatabaseIntegrityCheck.pdb
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\bin\Release\CDT.dll
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\bin\Release\MySql.Data.dll
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\obj\x86\Release\xDatabaseIntegrityCheck.csprojResolveAssemblyReference.cache
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\obj\x86\Release\DatabaseIntegrityCheck.FormDatabaseCheck.resources
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\obj\x86\Release\DatabaseIntegrityCheck.Properties.Resources.resources
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\obj\x86\Release\xDatabaseIntegrityCheck.csproj.GenerateResource.Cache
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\obj\x86\Release\xDatabaseIntegrityCheck.csproj.CoreCompileInputs.cache
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\obj\x86\Release\DatabaseIntegrityCheck.exe
+C:\Development\OpenDental\head\DatabaseIntegrityCheck\obj\x86\Release\DatabaseIntegrityCheck.pdb

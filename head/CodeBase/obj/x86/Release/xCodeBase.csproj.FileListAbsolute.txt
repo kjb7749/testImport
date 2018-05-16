@@ -1,0 +1,16 @@
+C:\Development\OpenDental\head\CodeBase\bin\Release\CodeBase.dll
+C:\Development\OpenDental\head\CodeBase\bin\Release\CodeBase.pdb
+C:\Development\OpenDental\head\CodeBase\bin\Release\SigPlusNET.dll
+C:\Development\OpenDental\head\CodeBase\bin\Release\Tao.FreeGlut.dll
+C:\Development\OpenDental\head\CodeBase\bin\Release\Tao.OpenGl.dll
+C:\Development\OpenDental\head\CodeBase\bin\Release\Tao.Platform.Windows.dll
+C:\Development\OpenDental\head\CodeBase\bin\Release\Windows.winmd
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\xCodeBase.csprojResolveAssemblyReference.cache
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\CodeBase.PrintPanel.resources
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\CodeBase.Properties.Resources.resources
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\CodeBase.MsgBoxCopyPaste.resources
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\CodeBase.ODBoxItem.resources
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\xCodeBase.csproj.GenerateResource.Cache
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\xCodeBase.csproj.CoreCompileInputs.cache
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\CodeBase.dll
+C:\Development\OpenDental\head\CodeBase\obj\x86\Release\CodeBase.pdb

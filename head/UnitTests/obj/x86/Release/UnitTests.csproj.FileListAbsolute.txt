@@ -1,0 +1,5 @@
+C:\Development\OpenDental\head\UnitTests\obj\x86\Release\UnitTests.csprojResolveAssemblyReference.cache
+C:\Development\OpenDental\head\UnitTests\obj\x86\Release\UnitTests.FormUnitTests.resources
+C:\Development\OpenDental\head\UnitTests\obj\x86\Release\UnitTests.Properties.Resources.resources
+C:\Development\OpenDental\head\UnitTests\obj\x86\Release\UnitTests.csproj.GenerateResource.Cache
+C:\Development\OpenDental\head\UnitTests\obj\x86\Release\UnitTests.csproj.CoreCompileInputs.cache

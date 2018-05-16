@@ -1,0 +1,11 @@
+C:\Development\OpenDental\head\UpdateFileCopier\bin\Release\UpdateFileCopier.exe.config
+C:\Development\OpenDental\head\UpdateFileCopier\bin\Release\UpdateFileCopier.exe
+C:\Development\OpenDental\head\UpdateFileCopier\bin\Release\UpdateFileCopier.pdb
+C:\Development\OpenDental\head\UpdateFileCopier\obj\x86\Release\UpdateFileCopier.MsgBoxCopyPaste.resources
+C:\Development\OpenDental\head\UpdateFileCopier\obj\x86\Release\CodeBase.ODBoxItem.resources
+C:\Development\OpenDental\head\UpdateFileCopier\obj\x86\Release\UpdateFileCopier.FormMain.resources
+C:\Development\OpenDental\head\UpdateFileCopier\obj\x86\Release\UpdateFileCopier.Properties.Resources.resources
+C:\Development\OpenDental\head\UpdateFileCopier\obj\x86\Release\UpdateFileCopier.csproj.GenerateResource.Cache
+C:\Development\OpenDental\head\UpdateFileCopier\obj\x86\Release\UpdateFileCopier.csproj.CoreCompileInputs.cache
+C:\Development\OpenDental\head\UpdateFileCopier\obj\x86\Release\UpdateFileCopier.exe
+C:\Development\OpenDental\head\UpdateFileCopier\obj\x86\Release\UpdateFileCopier.pdb
