@@ -1,0 +1,18 @@
+How to develop opendental plugin
+? You should build dll file first
+1. modify opendental plugin project to fit in purpose
+2. build dll
+3. you should read "http://www.opendental.com/manual/plugins.html" first about dll hooking
+
+How to apply plugin into opendental
+1. copy dll file into which opendental.exe contained folder
+2. execute opendental.exe then Click 'Setup' tab
+3. keep click 'Program Links' button
+4. then Program Links window will appear, click Add Button left below
+5. Fill the Descripton, Text On Button, especially 'Plug-in dll name', it must be same on pre-built dll file
+6. Don't forget check 'Enabled'
+7. Set cautious 'add a button to these toolbars' combobox, this setting is about which tab you want to show plugin tab
+8. Click OK Button after then it require program re-start
+
+How to check plugin well applied?
+1. You can check above tab menu and it's applied well if you find brand-new tab
